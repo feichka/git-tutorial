@@ -36,3 +36,9 @@
 ```
     git commit -m"commit message"
 ```
+## Создание новой ветки
+
+Для создания новой ветки нужно ввести команду
+~~~
+    git branch<branch name>
+~~~
